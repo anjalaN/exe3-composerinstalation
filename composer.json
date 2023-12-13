@@ -1,0 +1,17 @@
+{
+    "name": "anjala/php-test",
+    "autoload": {
+        "psr-4": {
+            "Anjala\\PhpTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anjala rajapaksa",
+            "email": "anjala2022@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.2"
+    }
+}
